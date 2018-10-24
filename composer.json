@@ -16,9 +16,9 @@
   },
   "require": {
     "php": ">= 7.1",
-    "nette/di": "~2.4.11",
-    "nette/forms": "~2.4.7",
-    "nette/utils": "~2.5.3"
+    "nette/di": "^3.0@dev",
+    "nette/forms": "^3.0@dev",
+    "nette/utils": "^3.0@dev"
   },
   "require-dev": {
     "ninjify/qa": "^0.8.0",
